@@ -1,4 +1,4 @@
 import React, { useEffect,useState} from "react";
 
 
-export default button;
+export default SubmitButton;
